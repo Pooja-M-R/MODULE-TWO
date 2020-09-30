@@ -10,7 +10,7 @@ Enter array elements : 10 20 30
 then the program should print the result as:
 Array elements in reverse order : 30 20 10*/
 
-
+//INSERT THE MISSING CODE 
 #include<stdio.h>
 int main()
 {
