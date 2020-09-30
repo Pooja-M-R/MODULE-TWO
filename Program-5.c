@@ -1,3 +1,4 @@
+/* Write a program to insert an element at a specified position in an array
 Enter number of elements in array
 3
 Enter 3 elements
@@ -15,7 +16,7 @@ Resultant array is
 98
 */
 
-
+//INSERT THE MISSING CODE 
 
 #include <stdio.h>
  
