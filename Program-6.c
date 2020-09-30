@@ -12,7 +12,7 @@ then the program should print the result as:
 Total number of even numbers in the array : 1
 Total number of odd numbers in the array : 3*/
 
-
+//INSERT THE MISSING CODE 
 
 int main()
 {
