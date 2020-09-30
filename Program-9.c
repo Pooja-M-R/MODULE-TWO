@@ -18,7 +18,7 @@ Transpose of the given matrix is
 3 6 */
 
 
-
+//INSERT THE MISSING CODE 
 
 #include<stdio.h>
 int main()
