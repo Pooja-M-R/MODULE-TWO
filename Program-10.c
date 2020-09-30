@@ -18,7 +18,7 @@ then the program should print the result as:
 The largest element of the array = 34
 The smallest element of the array = 6*/
 
-
+//INSERT THE MISSING CODE 
 #include <stdio.h>
 
 int main()
