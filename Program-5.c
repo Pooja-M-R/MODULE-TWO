@@ -1,3 +1,22 @@
+Enter number of elements in array
+3
+Enter 3 elements
+45
+78
+98
+Enter the location where you wish to insert an element
+2
+Enter the value to insert
+60
+Resultant array is
+45
+60
+78
+98
+*/
+
+
+
 #include <stdio.h>
  
 int main()
