@@ -18,14 +18,14 @@ int main()
    scanf("%d", &value);
  
    for (c = n - 1; c >= position - 1; c--)
-      array[c+1] = array[c];
+      array[c+1] = array[ ];
  
-   array[position-1] = value;
+   array[position-1] =  ;
  
    printf("Resultant array is\n");
  
    for (c = 0; c <= n; c++)
-      printf("%d\n", array[c]);
+      printf("%d\n",   [c]);
  
    return 0;
 }
