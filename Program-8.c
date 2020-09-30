@@ -15,7 +15,7 @@ Enter an integer value : 10
 then the program should print the result as:
 Number of times element 10 is repeated : 2*/
 
-
+//INSERT THE MISSING CODE 
 #include<stdio.h>
 int main(){
   int n,flag=0,i,key,a[10],c=0;
