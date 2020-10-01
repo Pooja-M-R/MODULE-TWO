@@ -38,14 +38,14 @@ int main()
    scanf("%d", &value);
  
    for (c = n - 1; c >= position - 1; c--)
-      array[c+1] = array[ ];
+      array[c+1] = array[ ]; //missing code
  
-   array[position-1] =  ;
+   array[position-1] =  ; //missing code
  
    printf("Resultant array is\n");
  
    for (c = 0; c <= n; c++)
-      printf("%d\n",   [c]);
+      printf("%d\n",   [c]); //missing code
  
    return 0;
 }
