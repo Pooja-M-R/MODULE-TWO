@@ -22,17 +22,19 @@ int main(){
   printf("Enter size of the array : ");
   scanf("%d",&n);
   printf("Enter array elements : ");
-  for(i;i<;i)
-  scanf("%d",&a[]);
+  for(i;i<;i)//missing code
+  scanf("%d",&a[]);//missing code
   printf("Enter an integer value : ");
   scanf("%d",&key);
-  printf("The indexes of the array elements matching the given value are : ");
+  
     for(i=0;i<n;i){
-  if(key==a[ ]) {
+  if(key==a[ ]) //missing code
+  {
     flag=1;
     c++;
-    printf("%d ",i);printf("Number of times element %d is repeated : %d\n",  , );
   }
+   printf("Number of times element %d is repeated : %d\n",  , );//missing code
+  
     }
     return(0);
 }
