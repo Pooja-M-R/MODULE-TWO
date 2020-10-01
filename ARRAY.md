@@ -1,3 +1,5 @@
+INTRODUCTION TO ARRAYS
+
 In a programming language the data that has to be processed is loaded in memory and held in variables. When we want to process an integer value, we declare an int variable and assign a value to it.
 
 Assume we want to write a program that prints the total marks scored by students in a class (say, for a total of 30 students).
