@@ -31,3 +31,13 @@ The above one-dimensional array declaration defines an integer array by name num
 
 Here each element in the array can be accessed by num[0], num[1], num[2], num[3], num[4], where 0, 1, 2, 3, 4 represent the subscripts or indices of the respective elements in the array.
 Each element in an array can be accessed by the name of the array followed by the subscript or directly by the address. The array variable holds the base address of that entire array.
+
+A two-dimensional array can be initialized as int a[3][2] = {{20, 30}, {40, 50}, {60, 70}};. Here, the values within the inner braces are assigned as elements to each row.
+
+If the number of values initialised for an array is less than the size mentioned, the missing elements are assigned to zero.
+
+For example in int a[3][4] = {{1, 2}, {3, 4, 5}};, the elements 1 and 2 are stored in a[0][0], a[0][1] of the 0th row and elements 3, 4 and 5 are stored in a[1][0], a[1][1] and a[1][2] of the 1st row respectively. All the other elements are initialised to zero.
+
+In the example, int a[3][4] = {1, 2, 3, 4, 5};, the values or elements 1, 2, 3, 4 and 5 are assigned starting from left-side to a[0][0], a[0][1], a[0][2], a[0][3] and a[1][0] respectively.
+
+
