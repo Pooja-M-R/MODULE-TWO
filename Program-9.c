@@ -30,7 +30,7 @@ int main()
     printf("Enter %d elements : ",m*n);
     for(i=0;i<m;i++)
         for(j=0;j<n;j++)
-            scanf("%d",&a[ ][ ]);
+            scanf("%d",&a[ ][ ]);//missing code
     
    printf("The given matrix is\n");
     
@@ -38,16 +38,18 @@ int main()
     
         for(j=0;j<n;j++)
         {
-            printf("%d ",a[][]);}
+            printf("%d ",a[][]);}//missing code
         
-        printf(" ");
+        printf(" ");//missing code
     }   
     printf("Transpose of the given matrix is\n");
     
-    for(i=0;i< ;++i)
+    for(i=0;i< ;++i)//missing code
     {
-        for(j=0;j< ;++j){
-            printf("%d ",a[ ][ ]);}
+        for(j=0;j< ;++j)//missing code
+        {
+            printf("%d ",a[ ][ ]);//missing code
+        }
         
         printf("\n");
     }
