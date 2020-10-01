@@ -38,18 +38,18 @@ int main()
 
     for (i = 1; i < n; i++)
     {
-        if (arr[i] <  )
+        if (arr[i] <  )//missing code
         {
-            small = arr[ ];
+             = arr[ ];//missing code
         }
         
-        if (arr[i] >  )
+        if (arr[i] >  )//missing code
         {
-            large = arr[ ];
+            = arr[ ];//missing code
         }
     }
 
-    printf("The largest element of the array = %d\n", large);
+    printf("The l argest element of the array = %d\n", large);
     printf("The smallest element of the array = %d\n", small);
 
     return 0;
