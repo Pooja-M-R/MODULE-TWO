@@ -1,4 +1,4 @@
-//Write a program that code accepts an integer input from the user and prints I Love Earth by number of times as the given integer.
+//Write a program that code accepts an integer input from the user and prints I Love VVCE by number of times as the given integer.
 
 
 //The below sample code accepts an integer input from the user and prints I Love Earth by number of times as the given integer.
@@ -13,7 +13,7 @@ void main() {
 	printf("Enter an integer : ");
  // Fill the code in scanf()
 	do {
-		printf("I Love Earth\n");
+		printf("I Love VVCE\n");
 		// complete the statement
 	}  // complete the condition
 }
