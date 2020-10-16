@@ -27,7 +27,7 @@ int main()
     printf("Enter the order of matrix : ");
     scanf("%d%d",&m,&n);
     
-    printf("Enter %d elements : ",m*n);
+    printf("Enter the elements : ");
     for(i=0;i<m;i++)
         for(j=0;j<n;j++)
             scanf("%d",&a[ ][ ]);//missing code
