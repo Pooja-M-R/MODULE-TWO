@@ -25,7 +25,7 @@ int main()
     //printf("Enter %d elements in array: ", num);
     for(i=; i<; i)
     {
-    printf("Enter the value of a[%d] : ",i);
+    printf("Enter the elements");
         scanf("%d", &  [i]);//missing code
     }
 
