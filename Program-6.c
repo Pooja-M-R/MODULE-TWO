@@ -23,9 +23,9 @@ int main()
     printf("Enter how many values you want to read : ");
     scanf("%d", &num);
     //printf("Enter %d elements in array: ", num);
+        printf("Enter the elements");
     for(i=; i<; i)
     {
-    printf("Enter the elements");
         scanf("%d", &  [i]);//missing code
     }
 
