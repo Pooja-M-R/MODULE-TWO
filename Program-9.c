@@ -40,7 +40,7 @@ int main()
         {
             printf("%d ",a[][]);}//missing code
         
-        printf(" ");//missing code
+        //printf(" ");//missing code
     }   
     printf("Transpose of the given matrix is\n");
     
@@ -51,7 +51,7 @@ int main()
             printf("%d ",a[ ][ ]);//missing code
         }
         
-        printf("\n");
+        //printf("\n");
     }
  return(0);
           }
