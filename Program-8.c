@@ -33,7 +33,7 @@ int main(){
     flag=1;
     c++;
   }
-   printf("Number of times element %d is repeated : %d\n",  , );//missing code
+   printf("Number of times  key element  is repeated  is %d",  );//missing code
   
     }
     return(0);
