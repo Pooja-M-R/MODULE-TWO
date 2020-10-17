@@ -18,7 +18,7 @@ for(j=0;j<n;j++)
 {
 printf("%d",a[i][j]);
 }
-printf("\n");
+//printf("\n");
 }
 return(0);
 }
