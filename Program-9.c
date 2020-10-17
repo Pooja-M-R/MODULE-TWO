@@ -24,10 +24,10 @@ Transpose of the given matrix is
 int main()
 {
     int a[5][5],i,j,m,n;
-    printf("Enter the order of matrix : ");
+    printf("Enter the order of matrix  and the elements");
     scanf("%d%d",&m,&n);
     
-    printf("Enter the elements : ");
+    //printf("Enter the elements : ");
     for(i=0;i<m;i++)
         for(j=0;j<n;j++)
             scanf("%d",&a[ ][ ]);//missing code
