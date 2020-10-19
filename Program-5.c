@@ -22,30 +22,18 @@ Resultant array is
  
 int main()
 {
-   int array[100], position, c, n, value;
-   printf("Enter number of elements in array\n");
+   int a[10],i,sum;
+   printf("Enter number of elements in array and the array elements");
    scanf("%d", &n);
  
-   printf("Enter %d elements\n", n);
+  // printf("Enter %d elements\n", n);
  
-   for (c = 0; c < n; c++)
-      scanf("%d", &array[c]);
+   for (i = 0; i < n; i++)
+   {
+      scanf("%d", &a[i]);
+      sum=sum+a[i]; 
+   }
+ printf("Sum of elements=%d",sum);
  
-   printf("Enter the location where you wish to insert an element\n");
-   scanf("%d", &position);
- 
-   printf("Enter the value to insert\n");
-   scanf("%d", &value);
- 
-   for (c = n - 1; c >= position - 1; c--)
-      array[c+1] = array[ ]; //missing code
- 
-   array[position-1] =  ; //missing code
- 
-   printf("Resultant array is\n");
- 
-   for (c = 0; c <= n; c++)
-      printf("%d\n",   [c]); //missing code
- 
-   return 0;
+  return 0;
 }
