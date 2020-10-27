@@ -9,7 +9,7 @@
 
 #include <stdio.h>
 void main() {
-	int i = 0, n;
+	int i = 1, n;
 	printf("Enter an integer : ");
  // Fill the code in scanf()
 	do {
