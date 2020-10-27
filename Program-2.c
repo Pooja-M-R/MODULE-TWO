@@ -16,7 +16,9 @@ void main()
 	int i=1,n;
 	printf("Enter upper limit : ");
 	scanf("%d",&n);
-	printf("The natural numbers from %d - %d: \t",i,n);
+	printf("The natural numbers are ");
+	for(i=1;i<=n;i++)
+		printf("%d ",i);
 	//Fill the missing code here
  }
 
