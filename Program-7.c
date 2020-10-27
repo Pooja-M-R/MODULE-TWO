@@ -12,16 +12,16 @@ Array elements in reverse order : 30 20 10*/
 
 //INSERT THE MISSING CODE 
 #include<stdio.h>
-int main()
-{
-  int a[10],i,n;
-  printf("Enter size of the array : ");
-  scanf("%d",&n);
-  printf("Enter array elements : ");
-  for(i=0;i<n;i++)
-  scanf("%d",&a[]);//missing code
-  printf("Array elements in reverse order : ");
-  for(i=;i;i) //missing code
-  printf("%d ",a[i]);
-  return(0);
-}
+	int main()
+	{
+	  int a[10],i,n;
+	  printf("Enter size of the array : ");
+	  scanf("%d",&n);
+	  printf("Enter array elements : ");
+	  for(i=0;i<n;i++)
+	  scanf("%d",&a[]);//missing code
+	  printf("Array elements in reverse order : ");
+	  for(i=;i;i) //missing code
+	  printf("%d ",a[i]);
+	  return(0);
+	}
